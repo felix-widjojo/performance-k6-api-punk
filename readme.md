@@ -25,5 +25,5 @@ To run
 Running the code with command line inside the directory with this line of code (I am using VSCode which supported by k6)
 
 ```bash
-k6 run stockbit-api-punk-test.js
+k6 run api-punk-test.js
 ```
